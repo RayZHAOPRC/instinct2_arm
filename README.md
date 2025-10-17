@@ -3,7 +3,7 @@
 
 ![Patterns](instinct2外观.png)
 
-提出一种桌面级六轴机械臂
+**设计、制造并开发一种桌面级六轴机械臂，作为低成本模仿学习硬件方案** 
 
 ![Reachy](instinct2渲染.png)
 
@@ -14,8 +14,8 @@
 ## 清单
 需要达妙电机六台，钣金打印件、PLA打印件、光学平台以及螺丝线束等即可完成组装，组装总时间不超过3小时
 
-## CAD Files and Onshape document
-Steps 文件已提供
+## CAD Files
+[STEP文件](instinct2 v31.step)文件已提供，包括了六个参考坐标轴
 
 # Project Updates & Contact
 ## To Do List
@@ -26,6 +26,6 @@ Steps 文件已提供
 
 ## Contact
 
-如果您有更好的改进方案，欢迎对原版进行任何优化！
-欢迎通过rayzhao1390@qq.com与我联系交流！
+-如果您有更好的改进方案，欢迎对原版进行任何优化！
+-欢迎通过rayzhao1390@qq.com与作者联系交流！
 
